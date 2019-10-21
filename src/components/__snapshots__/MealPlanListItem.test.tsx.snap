@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MealPlanListItem should render correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "borderBottomColor": "rgba(138,138,138,0.73)",
+      "borderBottomWidth": 0.5,
+      "paddingHorizontal": 16,
+      "paddingVertical": 16,
+    }
+  }
+>
+  <View
+    style={null}
+  >
+    <Text
+      numberOfLines={2}
+      style={
+        Object {
+          "fontSize": 21,
+          "marginBottom": 4,
+        }
+      }
+    >
+      test
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "gray",
+          "marginBottom": 8,
+        }
+      }
+    >
+      1
+    </Text>
+    <Text
+      numberOfLines={3}
+      style={
+        Object {
+          "fontSize": 14,
+        }
+      }
+    >
+      description
+    </Text>
+  </View>
+</View>
+`;
